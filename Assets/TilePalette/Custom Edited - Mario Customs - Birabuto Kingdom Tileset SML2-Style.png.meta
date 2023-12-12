@@ -1,0 +1,2450 @@
+fileFormatVersion: 2
+guid: e746dbf883383d94f842c62fb15c71da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bb8ded20084f240954a4a67f33d0d6
+      internalID: -31268416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9175ac31f2475d74f8afb53d9716dc9c
+      internalID: -622983312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8363922362dad7b4f8b07c15d9570699
+      internalID: 776222280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af297cbbd84e54f87a1008820690fb
+      internalID: 196360254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0117a61835fb1419d57e42426e7b2e
+      internalID: 914082276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f71125b4f2b84982b03e40da02925
+      internalID: 168081649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cddb30ee3509141bb397a605caa445
+      internalID: 1525216891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7355545635036a44c8a9c5ce9016864c
+      internalID: 434830637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e68472b70054a43afc84ba66a2df1d
+      internalID: -1813908918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0110a5172828334b8c3b53bb98e4811
+      internalID: 391549893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1799b93220bec4699e86176d6af29f
+      internalID: 85588529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb412a39aec585c448414b46ca11634a
+      internalID: 911027470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f52e868a4f7747a5438caf53f2b52
+      internalID: 2119914484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7427c090cd6a4c812d9964c58cfaa
+      internalID: 1413233036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240d5bd356e46714f9537be81ed34211
+      internalID: 1661623773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5bb3c2581fdc247b804ed27e81462a
+      internalID: -815041882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e45475293bdd4ba6b88a69c11f322
+      internalID: 1695070463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74857e8adc3a3f4aa6447a895ec3d6a
+      internalID: -133177091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b4316b15119245915f3dfb3a2cf03
+      internalID: -2040247878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff80328562c2454f97959c83d7af49a
+      internalID: 1439023610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982e495b44a5a043b25944a5d9fe954
+      internalID: 1114993583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7e416a81549041a31f2814af84b2c
+      internalID: -1505679128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fa01f2c7d9d3242b28b21a4ef639e5
+      internalID: -885122195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02666e74de462e942ba6a13d7ada5f64
+      internalID: 1431802424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddafb3364e007e469dcdd6e7de84971
+      internalID: 479038852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fc75857698d0d4ab302c20a7f9a4da
+      internalID: -1552999412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356116b232d109f489dcfdadfe881d93
+      internalID: 1895493763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e112c580d531043bef043e511bc621
+      internalID: 1288790817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbe629bae029442b23c20e86ec7f2f
+      internalID: -1641968443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44623d2df2fc7164b908d683a6f037cf
+      internalID: -1864285474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd138bfab587e96439b50f5e2bd5b7ec
+      internalID: -1511613721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e57cfe729d4094e96e78060e891df1
+      internalID: -1513007770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd26387c222ac240b8106526f821502
+      internalID: -294580425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436955ca029fdb428328b8095c9bc0c
+      internalID: -1089876354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93523f5b9f178ee4dacbb62a08c332d1
+      internalID: 1467447629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f9bcbbd36bd34c9ffa5f47644697d
+      internalID: -482881932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3837f81df05049ac2f47846714bda
+      internalID: -1669579801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc264a9cd135649a70b09968b7594a
+      internalID: 986760271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e5364333da6343818ce60f360f258
+      internalID: -950928511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e04a48e286f624c86c8fd6b685644f
+      internalID: 782495966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c92c57a5bb4e046a29b6efc3c7c113
+      internalID: 1780345613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011ffc8d08ff3946a0b872a66165c2e
+      internalID: 562717263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e99d9225fbeb4a9f5e3dc12a6fa22
+      internalID: 1055690415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dcd98c163d6de43b033474c20b5302
+      internalID: 937986238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae36d28b66b8e248be5da068813aa2b
+      internalID: -387115314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0168b326f5d93a42874bb0bb94ab182
+      internalID: 305220859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29b3bbf30a7e840907deb4a3854409
+      internalID: 240473539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf6782a0990f848918b7451cf172f6
+      internalID: -2051956514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a563e18c4f89d7842a16f6164a2375da
+      internalID: 1094048184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_49
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f34c3c6d798844b2bc88601e445bb
+      internalID: -533945230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91ce4bc20b44442a1bf317750355e4
+      internalID: 1491308520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_51
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc1376f6baacd4399579a1e08ffa0f
+      internalID: 1150944273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448431ad887780749a3f847d07163259
+      internalID: 517199569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613dc74cbe2566847a0a1136c4c0061d
+      internalID: -1957975278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f215f2149525c8d44bd51fb54cdfc824
+      internalID: -100889398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246a5bcb2adf514f873821a6a9f900a
+      internalID: -2037885424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5008bc777c1794fbb0a2e33f94c577
+      internalID: -309027279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a257c84953f14db35ada3f65807bc
+      internalID: -829892252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b039d5644c03b4a93194b56f46a1f1
+      internalID: -1760725716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f60b6b3be3bdc44812867b202d1b28
+      internalID: -666224538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1e0b79804372548817f8e2f6b0b7d6
+      internalID: 1462990969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ecc782be83677458a6498d78673c4a
+      internalID: -489580239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd43fc29ab751f4fa10605466ea7c54
+      internalID: -1280250900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd0b80505342c4fa03d9488c8e6f92
+      internalID: -1567249246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1c127dc136dc94cb35f68fe9e1dcc8
+      internalID: -1975275541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_65
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47eff44213d21e49abed0daa5d003f5
+      internalID: -1101123009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_66
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5501c968630ab1c418f49d936f08548d
+      internalID: 443771524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aedbb9230636f438cd4070da4349e1
+      internalID: -1223960449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e7ffa66571e14e9b8f79514087530
+      internalID: -875531767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ea07447fc6f240bf2c4e40c70e1b3
+      internalID: -8361111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_70
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b356dbec86f2b4c8623ceb4d05e3f8
+      internalID: -1047768632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b778d643a9354e8dcb4ca92c9cc0b
+      internalID: 1813532800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_72
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952644d9b2743644887758470c04e25b
+      internalID: -1019503226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4291570eceea4c977ed0be7bed5fb
+      internalID: -1873395407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ab3aba17d55042b3fe05b1fb2164a
+      internalID: 1493068329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263021c5b9ec55b4e9c2d2776ea62d1c
+      internalID: 1072246833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07f87ef33217d4f877818a42287294
+      internalID: -119922019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_77
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64293c3afa92d4595ccd5634fba33e
+      internalID: -407889761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bedea84e04d23c4585e99026249297a
+      internalID: -150970228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a93119904e9d74da9b36a5458273bc
+      internalID: -726970761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05686bac8a4f441a3001aa18118eaf
+      internalID: 208959005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ef35613b63d54aab39bae2df9386c
+      internalID: -1134039611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_82
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e8d8010b1d0194bbd56c8c718f5c9a
+      internalID: 1264730677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_83
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372a966a8516674184e512a8237229f
+      internalID: 1975610794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_84
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187b1d9b5c6edf94083a31ef94624c04
+      internalID: 321396417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_85
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28178cf755ece7541a176cbcddcdf7ba
+      internalID: -506269721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_86
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e68e4a463406f94ea7cc2951dfae1f7
+      internalID: 1586336633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a69f9b66732a440b06ffda4aac9e6f
+      internalID: 24679898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e4e3b3554558a4f8c27049aa68e091
+      internalID: -653530018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ace3c7749aa224b9ed54ddf1a95ce1
+      internalID: -1037678037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d407e34d66b81444f847b5a088238cc3
+      internalID: 42730964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ef3858a6ce494dac17d02865f84c2
+      internalID: 1744605301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229ac97f1a390014da2e642d9ae3a8d5
+      internalID: 1827212131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_93
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f40a9b16209dab4abff6588100f58b2
+      internalID: -1256701343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50308f9065bdf144ea2ba9d552a75f08
+      internalID: 7362916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_95
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715137e42bd7d704188aaeeee624ddf2
+      internalID: 280265242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1088b973c3f2246b3ad1223b40aa5a
+      internalID: -1450680837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_97
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f457af4aa163545a59fe0f3026b344
+      internalID: -1283728984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_98
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef948e036ae49ab498a11d7897b09ade
+      internalID: -1376868404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_99
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a441ffce975d7ee41ab59e5650543b5f
+      internalID: 2109894083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_100
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af64fc764b9d6542a92fad4102c1069
+      internalID: -650788348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_101
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1023279128ce342a3bc1999db86249
+      internalID: 1969515706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee2019f8ae14e47aea8974ab0fc19e
+      internalID: -34956232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_103
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525ce248a7bc1934fa8e0c76e306646b
+      internalID: 692290446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_104
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa23df9ce0fce047bc74da667e41349
+      internalID: 895443905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_0: -31268416
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_1: -622983312
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_10: 85588529
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_100: -650788348
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_101: 1969515706
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_102: -34956232
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_103: 692290446
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_104: 895443905
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_11: 911027470
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_12: 2119914484
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_13: 1413233036
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_14: 1661623773
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_15: -815041882
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_16: 1695070463
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_17: -133177091
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_18: -2040247878
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_19: 1439023610
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_2: 776222280
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_20: 1114993583
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_21: -1505679128
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_22: -885122195
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_23: 1431802424
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_24: 479038852
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_25: -1552999412
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_26: 1895493763
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_27: 1288790817
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_28: -1641968443
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_29: -1864285474
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_3: 196360254
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_30: -1511613721
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_31: -1513007770
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_32: -294580425
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_33: -1089876354
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_34: 1467447629
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_35: -482881932
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_36: -1669579801
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_37: 986760271
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_38: -950928511
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_39: 782495966
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_4: 914082276
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_40: 1780345613
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_41: 562717263
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_42: 1055690415
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_43: 937986238
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_44: -387115314
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_45: 305220859
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_46: 240473539
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_47: -2051956514
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_48: 1094048184
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_49: -533945230
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_5: 168081649
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_50: 1491308520
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_51: 1150944273
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_52: 517199569
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_53: -1957975278
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_54: -100889398
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_55: -2037885424
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_56: -309027279
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_57: -829892252
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_58: -1760725716
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_59: -666224538
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_6: 1525216891
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_60: 1462990969
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_61: -489580239
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_62: -1280250900
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_63: -1567249246
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_64: -1975275541
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_65: -1101123009
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_66: 443771524
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_67: -1223960449
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_68: -875531767
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_69: -8361111
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_7: 434830637
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_70: -1047768632
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_71: 1813532800
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_72: -1019503226
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_73: -1873395407
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_74: 1493068329
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_75: 1072246833
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_76: -119922019
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_77: -407889761
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_78: -150970228
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_79: -726970761
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_8: -1813908918
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_80: 208959005
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_81: -1134039611
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_82: 1264730677
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_83: 1975610794
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_84: 321396417
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_85: -506269721
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_86: 1586336633
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_87: 24679898
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_88: -653530018
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_89: -1037678037
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_9: 391549893
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_90: 42730964
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_91: 1744605301
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_92: 1827212131
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_93: -1256701343
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_94: 7362916
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_95: 280265242
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_96: -1450680837
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_97: -1283728984
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_98: -1376868404
+      Custom Edited - Mario Customs - Birabuto Kingdom Tileset SML2-Style_99: 2109894083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
