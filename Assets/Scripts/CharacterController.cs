@@ -36,7 +36,7 @@ public class CharacterController : MonoBehaviour
         rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * speed, rb.velocity.y);
         if (Input.GetButtonDown("Jump") && jumpReady)
         {
-            rb.AddForce(new Vector2(0, 5), ForceMode2D.Impulse);
+            rb.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
             animator.SetBool("jumpBool", true);
         }
     }
