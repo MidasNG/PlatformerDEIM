@@ -10,7 +10,7 @@ public class CharacterController : MonoBehaviour
     private Rigidbody2D rb;
     private float idleTime = 0f;
     [SerializeField] private float speed= 5f;
-    private bool jumpReady;
+    private bool jumpReady, controllable = true;
 
     void Start()
     {
@@ -29,12 +29,12 @@ public class CharacterController : MonoBehaviour
             animator.SetTrigger("longIdleTrigger");
         }
 
-        if (Input.GetAxisRaw("Horizontal") < 0f) { spriteRenderer.flipX = true; animator.SetBool("runBool", true); IdleReset(); }
-        else if (Input.GetAxisRaw("Horizontal") > 0f) { spriteRenderer.flipX = false; animator.SetBool("runBool", true); IdleReset(); }
+        if (Input.GetAxisRaw("Horizontal") < 0f && controllable) { spriteRenderer.flipX = true; animator.SetBool("runBool", true); IdleReset(); }
+        else if (Input.GetAxisRaw("Horizontal") > 0f && controllable) { spriteRenderer.flipX = false; animator.SetBool("runBool", true); IdleReset(); }
         if (rb.velocity.x == 0) animator.SetBool("runBool", false);
 
-        rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * speed, rb.velocity.y);
-        if (Input.GetButtonDown("Jump") && jumpReady)
+        if (controllable) rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * speed, rb.velocity.y);
+        if (Input.GetButtonDown("Jump") && jumpReady && controllable)
         {
             rb.AddForce(new Vector2(0, 7), ForceMode2D.Impulse);
             animator.SetBool("jumpBool", true);
@@ -65,5 +65,10 @@ public class CharacterController : MonoBehaviour
     private void OnCollisionExit2D(Collision2D collision)
     {
         jumpReady = false;
+    }
+
+    public void StopControl()
+    {
+        controllable = false;
     }
 }

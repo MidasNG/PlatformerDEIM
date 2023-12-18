@@ -5,16 +5,10 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    private AudioSource coinPick;
-
-    private void Start()
-    {
-        coinPick = GetComponent<AudioSource>();
-    }
-
+    [SerializeField] private Music source;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        coinPick.Play();
+        source.CoinPick();
         Destroy(gameObject);
     }
 }
