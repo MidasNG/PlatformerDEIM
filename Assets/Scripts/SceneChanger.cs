@@ -15,8 +15,18 @@ public class SceneChanger : MonoBehaviour
     {
         character.StopControl();
         music.Victory();
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(4.5f);
         SceneManager.LoadScene(Level);
         yield return null;
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene("Level 1");
+    }
+
+    public void Menu()
+    {
+        SceneManager.LoadScene("Main Menu");
     }
 }
