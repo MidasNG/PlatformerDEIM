@@ -7,10 +7,12 @@ public class SceneChanger : MonoBehaviour
 {
     [SerializeField] private Music music;
     [SerializeField] private CharacterController character;
+    private Coroutine coroutine;
     public void Change(string Level)
     {
-        StartCoroutine(SceneChange(Level));
+        if (coroutine == null) coroutine = StartCoroutine(SceneChange(Level));
     }
+
     private IEnumerator SceneChange(string Level)
     {
         character.StopControl();
