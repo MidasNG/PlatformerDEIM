@@ -26,7 +26,7 @@ public class CharacterController : MonoBehaviour
 
         if (idleTime >= 5f) 
         {
-            animator.SetTrigger("longIdleTrigger");
+            animator.SetBool("longIdleBool", true);
         }
 
         if (Input.GetAxisRaw("Horizontal") < 0f && controllable) { spriteRenderer.flipX = true; animator.SetBool("runBool", true); IdleReset(); }
@@ -44,6 +44,7 @@ public class CharacterController : MonoBehaviour
     private void IdleReset()
     {
         idleTime = 0f;
+        animator.SetBool("longIdleBool", false);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
