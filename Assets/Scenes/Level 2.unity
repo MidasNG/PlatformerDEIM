@@ -131,6 +131,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 282029854553032420, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1413735007}
+    - target: {fileID: 282029854553032420, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Menu
+      objectReference: {fileID: 0}
+    - target: {fileID: 282029854553032420, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SceneChanger, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 514247563514162245, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -210,6 +222,14 @@ PrefabInstance:
     - target: {fileID: 514247563514162245, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2948006504533727222, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1832358421}
+    - target: {fileID: 2948006504533727222, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Pause
       objectReference: {fileID: 0}
     - target: {fileID: 4802181840030894373, guid: 040c8b6a8b6f3bc4897928c63cd073c5, type: 3}
       propertyPath: m_Name
@@ -4974,6 +4994,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 35e84784f751fa94899415f287e329d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1832358421 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6825314724893249342, guid: f404c57cef7b2894c967002e1f35757d, type: 3}
+  m_PrefabInstance: {fileID: 170433064}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb63369424065ec41a236a6559247842, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1915517928 stripped
